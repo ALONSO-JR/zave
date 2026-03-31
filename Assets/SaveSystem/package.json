@@ -1,0 +1,22 @@
+{
+  "name": "com.savesystem.ultimate",
+  "version": "1.0.0",
+  "displayName": "SaveSystem Ultimate",
+  "description": "El sistema de guardado definitivo para Unity. Totalmente gratuito, compatible con IL2CPP, WebGL, iOS, Android, Windows, y Mac. Ofrece serialización universal, múltiples backends, encriptación AES, compresión GZip, editor visual y migración de datos. API extremadamente simple: SaveSystem.Save() y SaveSystem.Load().",
+  "unity": "2020.3",
+  "keywords": [
+    "save",
+    "load",
+    "serialization",
+    "json",
+    "storage",
+    "encryption",
+    "compression",
+    "il2cpp",
+    "webgl",
+    "backend"
+  ],
+  "author": {
+    "name": "SaveSystem Ultimate Creator"
+  }
+}
